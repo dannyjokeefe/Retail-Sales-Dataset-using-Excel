@@ -42,4 +42,13 @@ The visualizations provide clear insights into patterns, comparisons, and trends
 
 ![image](https://github.com/user-attachments/assets/1de5d3ee-04d8-433d-bb73-31f6f3d4f46c)
 
+## 📬 Contact
+
+Let’s connect or collaborate:  
+[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyokeefe)
+
+---
+**Created by:** *Danny O'Keefe*  
+**Date:** May 2025
+
 
