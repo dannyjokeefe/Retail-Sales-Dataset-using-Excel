@@ -45,7 +45,7 @@ The visualizations provide clear insights into patterns, comparisons, and trends
 ## 📬 Contact
 
 Let’s connect or collaborate:  
-[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyokeefe)
+[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyjokeefe)
 
 ---
 **Created by:** *Danny O'Keefe*  
